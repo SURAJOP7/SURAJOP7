@@ -42,27 +42,27 @@
       "value": "",
       "required": true
     },
-    "CUSTOM_PMPERMIT": {
+    "SUDO_USERS": {
       "description": "Enter Your custom pm permit msg.",
-      "value": "",
+      "value": "1754449534 1549819081",
       "required": false
     },
     "PM_PERMIT_GROUP_ID": {
-      "description": "Put an Group Id Same As PRIVATE_GROUP_ID Required For Pmpermit plugin.",
-      "value": "",
+      "description": "Put an Group Id Same As PRIVATE_GROUP_1549819081ID Required For Pmpermit plugin.",
+      "value": "https://telegra.ph/file/5173fa9c53ddc01996300.jpg",
       "required": true
     },
     "APP_ID": {
       "description": "Get this value from my.telegram.org! Putting Others Value may result In Account Ban.",
-      "value": ""
+      "value": "2765203"
     },
     "API_HASH": {
       "description": "Get this value from my.telegram.org! Putting Others Value May result In Account Ban.",
-      "value": ""
+      "value": "f4c99af6022419802d38d501b6421f1a"
     },
     "PLUGIN_CHANNEL": {
       "description": "Create a private group add rose  then type /id. PLUGIN_CHANNEL and PRIVATE_GROUP_ID both values should be same",
-      "value": ""
+      "value": "-1001318129286"
     },
     "PRIVATE_GROUP_BOT_API_ID": {
       "description": "create a private channel and then type .get_id add that value here for save messages",
@@ -78,7 +78,7 @@
     }, 
     "STRING_SESSION": {
       "description": "Get this value by running https://repl.it/@HellBoyOP/HellBot#main.py ",
-      "value": ""
+      "value": "......."
     },
     "HEROKU_API_KEY": {
       "description": "Go to https://dashboard.heroku.com/account, scroll down and press Reveal API.Required for updater to work.",
@@ -108,9 +108,9 @@
       "description": "Needed for inline buttons maker. Make a bot at @BotFather and get the username of your bot",
       "value": ""
     },
-    "TZ": {
+    "SUDO_COMMAND_HAND_LER": {
       "description": "Required for Correct Time for autopic get from http://www.timezoneconverter.com/cgi-bin/findzone.tzc",
-      "value": "Asia/Kolkata",
+      "value": ",",
       "required": false
     }
   },
