@@ -24,22 +24,22 @@
     },
     "ALIVE_NAME": {
       "description": "Fill your Full name. By default it is Hell User",
-      "value": "",
+      "value": "ZALA KE PAPA J ",
       "required": false
     },
     "ALIVE_MSG": {
       "description": "Set Custom Alive Message When entering .hell Command.",
-      "value": "",
+      "value": "ZALA OR GHOULS KI MAAA RED HOT",
       "required": false
     },
     "ALIVE_PIC": {
       "description": "Put here any telegraph media link for alive pic in .hell command.",
-      "value": "",
+      "value": "https://telegra.ph/file/5173fa9c53ddc01996300.jpg",
       "required": false
     },
     "PMPERMIT_PIC": {
       "description": "put here any telegraph media link for custom pmpermit pic.",
-      "value": "",
+      "value": "https://telegra.ph/file/5173fa9c53ddc01996300.jpg",
       "required": true
     },
     "SUDO_USERS": {
@@ -49,7 +49,7 @@
     },
     "PM_PERMIT_GROUP_ID": {
       "description": "Put an Group Id Same As PRIVATE_GROUP_1549819081ID Required For Pmpermit plugin.",
-      "value": "https://telegra.ph/file/5173fa9c53ddc01996300.jpg",
+      "value": "-1001318129286",
       "required": true
     },
     "APP_ID": {
@@ -70,11 +70,11 @@
     },
     "PRIVATE_GROUP_ID": {
       "description": "Create a private group add rose bot then type /id. PLUGIN_CHANNEL and PRIVATE_GROUP_ID both values should be same",
-      "value": ""
+      "value": "-1001318129286"
     },
     "PM_LOGGR_BOT_API_ID": {
        "description": "for login private messages create a private channel and do .get_id and add that id", 
-       "value": ""
+       "value": "0"
     }, 
     "STRING_SESSION": {
       "description": "Get this value by running https://repl.it/@HellBoyOP/HellBot#main.py ",
@@ -92,7 +92,7 @@
     },
     "TG_BOT_TOKEN_BF_HER": {
       "description": "Needed for inline buttons maker. Make a bot at [BotFather](http://telegram.dog/BotFather) and get the token of your bot. And Don't Forget To Turn on inline Mode on bot settings. Get it.",
-      "value": ""
+      "value": "1751340314:AAFdcNmUNFjsx8QXNSsMhom7Kl-Lr8s5ywI"
     },
     "CHROME_BIN": {
       "description": "For Carbon.py. Leave as it is. ",
@@ -106,7 +106,7 @@
     },
     "TG_BOT_USER_NAME_BF_HER": {
       "description": "Needed for inline buttons maker. Make a bot at @BotFather and get the username of your bot",
-      "value": ""
+      "value": "@GHOULSKIMAACHUDGAAEBOT"
     },
     "SUDO_COMMAND_HAND_LER": {
       "description": "Required for Correct Time for autopic get from http://www.timezoneconverter.com/cgi-bin/findzone.tzc",
