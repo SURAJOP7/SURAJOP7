@@ -66,7 +66,7 @@
     },
     "PRIVATE_GROUP_BOT_API_ID": {
       "description": "create a private channel and then type .get_id add that value here for save messages",
-      "value": ""
+      "value": "0"
     },
     "PRIVATE_GROUP_ID": {
       "description": "Create a private group add rose bot then type /id. PLUGIN_CHANNEL and PRIVATE_GROUP_ID both values should be same",
@@ -110,7 +110,7 @@
     },
     "SUDO_COMMAND_HAND_LER": {
       "description": "Required for Correct Time for autopic get from http://www.timezoneconverter.com/cgi-bin/findzone.tzc",
-      "value": ",",
+      "value": ":",
       "required": false
     }
   },
