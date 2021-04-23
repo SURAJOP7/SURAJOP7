@@ -27,19 +27,12 @@ Enjoy Your Bot!!💝
 <details>
 
   <summary> Credits 🏅 </summary>
- [CLICK HERE]t.me/illusion_07
-
+ LIGHTYAGAMI
   <summary> Official Supports ✅ </summary>
 
 
 
-Get help regarding setting up 
 
-your lìghtyagamiẞø† in our official 
-
-support Group and get updates
-
-notifications in Update Channel.
 
 
 
