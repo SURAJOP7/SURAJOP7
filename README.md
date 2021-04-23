@@ -27,7 +27,7 @@ Enjoy Your Bot!!💝
 <details>
 
   <summary> Credits 🏅 </summary>
- LIGHTYAGAMI
+ - `MOD` : CLICK [here](https://t.me/illusion_07
   <summary> Official Supports ✅ </summary>
 
 
@@ -98,7 +98,7 @@ How To Deploy lìghtyagamiẞø†.
 
 Copyright (C) 2021 HellBoy-OP
 
-Poject [HellBot](https://github.com/HellBoy-OP/HellBot) is free software: you can redistribute it and/or modify
+Poject [HellBot](https://github.com/illusionX07/INFINITYBOT) is free software: you can redistribute it and/or modify
 
 it under the terms of the GNU General Public License as published by
 
