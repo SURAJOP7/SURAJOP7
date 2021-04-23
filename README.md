@@ -27,7 +27,7 @@ Enjoy Your Bot!!💝
 <details>
 
   <summary> Credits 🏅 </summary>
- - `MOD` : CLICK [here](https://t.me/illusion_07
+`LIGHTYAGAMI`
   <summary> Official Supports ✅ </summary>
 
 
