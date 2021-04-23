@@ -3,7 +3,7 @@
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/f7c51539e67b483bb8d7749acca51d3a)](https://app.codacy.com/gh/HellBoy-OP/HellBot?utm_source=github.com&utm_medium=referral&utm_content=HellBoy-OP/HellBot&utm_campaign=Badge_Grade_Settings)
 [![Python 3.6](https://img.shields.io/badge/Python-3.6%20or%20newer-blue.svg)](https://www.python.org/downloads/release/python-360/)
 
-![GitHub repo size](https://img.shields.io/github/repo-size/HellBoy-OP/Hellbot)
+![GitHub repo size](https://img.shields.io/github/repo-size/illusionX07/INFINITYBOT)
 [![Contact Me](https://img.shields.io/badge/Telegram-Contact%20Me-informational)](https://t.me/illusion_07)
 
 <h1 align="center">⚡ †hê lìghtyagamiẞø† ⚡</h1>
@@ -44,41 +44,81 @@ LIGHTYAGAMI
 
 <details>
 
-  <summary> Video Tutorial 📺 </summary>
+  <summary> • INSTALLING • </summary>
 
+### The Easy Way
 
+## Session String
+* [![Run on Repl.it](https://replit.com/badge/github/illusionX07/INFINITYBOT)](https://replit.com/@illusionX07/StringSessionGenerator)
 
-Official YouTube Channel Of lìghtyagamiẞø†.
-
-Click on the link below to get tutorial on 
-
-How To Deploy lìghtyagamiẞø†.
-
-
-
-<a href="https://youtu.be/M2FQJq_sHp4"><img src="https://img.shields.io/badge/How%20To%20Deploy-blue.svg?logo=Youtube"></a>
-
-<a href="https://youtu.be/M2FQJq_sHp4"><img src="https://img.shields.io/youtube/views/M2FQJq_sHp4?style=social"></a>
+<h4>⚜️ DEPLOY TO HEROKU ⚜️</h4>
+<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/illusionX07/INFINITYBOT"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-red?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+<h2 align="center"> <a href="https://github.com/illusionX07/INFINITYBOT">⚡ ʟɪɢʜᴛʏᴀɢᴀᴍɪ 𝚄𝚂𝙴𝚁𝙱𝙾𝚃 ⚡</a></h2>
 
 </details>
 
-<h2 align="center">⚙️ Set-Up ⚙️</h2>
+<details>
 
-<h3 align="center">✨ #How to host LIGHTYAGAMIBOT ✨</h3>
-The easiest way to deploy this Bot
-<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/illusionX07/INFINITYBOT"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-red?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+  <summary> • CREDITS👀 • </summary>
+<h2 align="center"> <a href="https://github.com/HellBoy-OP/HellBot">💥 HELLBOT 💥</a></h2>
 
-</a>
+</details>
 
-<h3 align="center">⚔️ The Normal Way ⚔️</h3>
+<details>
 
-<h4 align="center">To host lìghtyagamiẞø† locally or on any other VPS, Go to</h4>
+  <summary> • THE NORMAL WAY • </summary>
 
+Simply clone the repository and run the main file:
+sh
+git clone https://github.com/illusionX07/INFINITYBOT
+cd INFINITYBOT
+virtualenv -p /usr/bin/python3 venv
+. ./venv/bin/activate
+pip install -r requirements.txt
+# <Create local_config.py with variables as given below>
+python3 -m userbot
+
+
+An example local_config.py file could be:
+
+Not All of the variables are mandatory
+
+The Userbot should work by setting only the first two variables
+
+python3
+from heroku_config import Var
+
+class Development(Var):
+  APP_ID = 6
+  API_HASH = "eb06d4abfb49dc3eeb1aeb98ae0f581e"
+
+
+</details>
+
+<details>
+
+  <summary> • UNIBORG CONFIGURATION • </summary>
+
+The UniBorg Config is situated in userbot/uniborgConfig.py.
+
+Heroku Configuration
+Simply just leave the Config as it is.
+
+Local Configuration
+Fortunately there are no Mandatory vars for the UniBorg Support Config.
+
+</details>
+
+<details>
+
+  <summary> • MANDATORY VARS • </summary>
+
+- Only two of the environment variables are mandatory.
+- This is because of telethon.errors.rpc_error_list.ApiIdPublishedFloodError
     - APP_ID:   You can get this value from https://my.telegram.org
-
     - API_HASH:   You can get this value from https://my.telegram.org
-
 - The userbot will not work without setting the mandatory vars.
+</details>
 
 <details>
 
@@ -88,7 +128,7 @@ The easiest way to deploy this Bot
 
 Copyright (C) 2021 LIGHTYAGAMI-OP
 
-Poject [LIGHTyAGAMIBot](https://github.com/illusionX07/INFINITYBOT) is free software: you can redistribute it and/or modify
+Project [LIGHTyAGAMIBot](https://github.com/illusionX07/INFINITYBOT) is free software: you can redistribute it and/or modify
 
 it under the terms of the GNU General Public License as published by
 
