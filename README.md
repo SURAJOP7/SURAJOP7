@@ -27,7 +27,7 @@ Enjoy Your Bot!!💝
 <details>
 
   <summary> Credits 🏅 </summary>
-`LIGHTYAGAMI`
+LIGHTYAGAMI
   <summary> Official Supports ✅ </summary>
 
 
@@ -86,9 +86,9 @@ The easiest way to deploy this Bot
 
 ![](https://www.gnu.org/graphics/gplv3-or-later.png)
 
-Copyright (C) 2021 HellBoy-OP
+Copyright (C) 2021 LIGHTYAGAMI-OP
 
-Poject [HellBot](https://github.com/illusionX07/INFINITYBOT) is free software: you can redistribute it and/or modify
+Poject [LIGHTyAGAMIBot](https://github.com/illusionX07/INFINITYBOT) is free software: you can redistribute it and/or modify
 
 it under the terms of the GNU General Public License as published by
 
