@@ -4,19 +4,19 @@
 _get_repolink () {
     local regex
     regex='(https?)://github.com/.+/.+'
-    if [[ $HELL_REPO == "HellBot" ]]
+    if [[ $LIGHTYAGAMI_REPO == "LIGHTYAGAMIBOT" ]]
     then
         echo "aHR0cHM6Ly9naXRodWIuY29tL1RoZVZhZGVycy9WYWRlci9hcmNoaXZlL21hc3Rlci56aXA=" | base64 -d
-    elif [[ $HELL_REPO == "Hellbot" ]]
+    elif [[ $LIGHTYAGAMI_REPO == "Hellbot" ]]
     then
         echo "aHR0cHM6Ly9naXRodWIuY29tL1RoZVZhZGVycy9WYWRlci9hcmNoaXZlL21hc3Rlci56aXA=" | base64 -d
-    elif [[ $HELL_REPO =~ $regex ]]
+    elif [[ $LIGHTYAGAMI_REPO =~ $regex ]]
     then
-        if [[ $HELL_REPO_BRANCH ]]
+        if [[ $LIGHTYAGAMI_REPO_BRANCH ]]
         then
-            echo "${HELL_REPO}/archive/${HELL_REPO_BRANCH}.zip"
+            echo "${LIGHTYAGAMI_REPO}/archive/${LIGHTYAGAMI_REPO_BRANCH}.zip"
         else
-            echo "${HELL_REPO}/archive/master.zip"
+            echo "${LIGHTYAGAMI_REPO}/archive/master.zip"
         fi
     else
         echo "aHR0cHM6Ly9naXRodWIuY29tL1RoZVZhZGVycy9WYWRlci9hcmNoaXZlL21hc3Rlci56aXA=" | base64 -d
@@ -26,25 +26,20 @@ _get_repolink () {
 
 _set_bot () {
     local zippath
-    zippath="hellbot.zip"
+    zippath="LIGHGYAGAMIBOT.zip"
     echo "  Downloading source code ..."
     wget -q $(_get_repolink) -O "$zippath"
     echo "  Unpacking Data ..."
-    HELLPATH=$(zipinfo -1 "$zippath" | grep -v "/.");
+    LIGHTYAGAMIPATH=$(zipinfo -1 "$zippath" | grep -v "/.");
     unzip -qq "$zippath"
     echo "Done"
     echo "  Cleaning ..."
     rm -rf "$zippath"
     sleep 5
     cd $HELLPATH
-    echo "    Starting HellBot    "
+    echo "    Starting LIGHTYAGAMIBOT    "
     echo "
-                              ╔╗─╔╗──╔╗╔╗╔╗────╔╗
-                              ║║─║║──║║║║║║───╔╝╚╗
-                              ║╚═╝╠══╣║║║║╚═╦═╩╗╔╝
-                              ║╔═╗║║═╣║║║║╔╗║╔╗║║
-                              ║║─║║║═╣╚╣╚╣╚╝║╚╝║╚╗
-                              ╚╝─╚╩══╩═╩═╩══╩══╩═╝
+                              ＬＩＧＨＴＹＡＧＡＭＩＢＯＴ
     "
 
     python3 ../setup/updater.py ../requirements.txt requirements.txt
