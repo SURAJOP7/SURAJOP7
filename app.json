@@ -1,6 +1,6 @@
 {
   "name": "lìghtyagamiẞø†",
-  "description": "The best userbot made by @Kraken_The_BadASS. And cloned and bypassed things by @illusion_07 Made with Love And Phone And Hardwork and... Nhi aur kahi se to nhi bana....For queries msg- @illusion_07 ",
+  "description": "The best userbot made by @Kraken_The_BadASS. And cloned and bypassed things by @illusion_07 Made For Spamming Purpose ....For queries msg- @illusion_07 ",
   "logo": "https://telegra.ph/file/cd3164839ce4f95789aaa.jpg ",
     "keywords": [
     "telegram",
@@ -34,12 +34,12 @@
     },
     "ALIVE_PIC": {
       "description": "Put here any telegraph media link for alive pic in .hell command.",
-      "value": "https://telegra.ph/file/cd3164839ce4f95789aaa.jpg",
+      "value": "https://telegra.ph/file/895af1c3595bc8f047899.jpg",
       "required": false
     },
     "PMPERMIT_PIC": {
       "description": "put here any telegraph media link for custom pmpermit pic.",
-      "value": "https://telegra.ph/file/cd3164839ce4f95789aaa.jpg",
+      "value": "https://telegra.ph/file/895af1c3595bc8f047899.jpg",
       "required": true
     },
     "SUDO_USERS": {
@@ -109,8 +109,8 @@
       "value": "@GHOULSKIMAACHUDGAAEBOT"
     },
     "SUDO_COMMAND_HAND_LER": {
-      "description": "Required for Correct Time for autopic get from http://www.timezoneconverter.com/cgi-bin/findzone.tzc",
-      "value": ":",
+      "description": "BHAI YAAR TUM GAND MARAO",
+      "value": "*",
       "required": false
     }
   },
