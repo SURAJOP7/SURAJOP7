@@ -18,7 +18,7 @@ Don't forget to star this repo if you liked it.
 
 Enjoy Your Bot!!💝
 
-[![lìghtyagamiẞø† logo](https://telegra.ph/file/2165457cc7e428ff64919.jpg)](https://t.me/hellbot_official)
+[![lìghtyagamiẞø† logo](https://telegra.ph/file/cd3164839ce4f95789aaa.jpg)](https://t.me/hellbot_official)
 
 ### The owner would not be responsible for any kind of bans due to the bot...
 
