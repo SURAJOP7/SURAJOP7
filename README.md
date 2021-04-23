@@ -76,14 +76,6 @@ How To Deploy lìghtyagamiẞø†.
 
 <h4 align="center">To host lìghtyagamiẞø† locally or on any other VPS, Go to</h4>
 
-<h2 align="center"> <a href="https://github.com/thevaders/vader">⚡ VΛDΣЯ REPO ⚡</a></h2>
-
-## Mandatory Vars
-
-- Only two of the environment variables are mandatory.
-
-- This is because of telethon.errors.rpc_error_list.ApiIdPublishedFloodError
-
     - APP_ID:   You can get this value from https://my.telegram.org
 
     - API_HASH:   You can get this value from https://my.telegram.org
