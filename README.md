@@ -10,9 +10,9 @@
 
 <h4 align="center">Legendary AF lìghtyagamiẞø†</h4>
 
-<h5>This is a userbot made for telegram. I made this userbot with help of all other userbots available in telegram. All credits goes to its Respective Owners.</h5>
+<h5>This is a userbot made for spam purpose</h5>
 
-This is the one and only official HellBot Userbot made by #Team_lightyagami.
+This is the one and only official Lightyagami Userbot made by #Team_lightyagami.
 
 Don't forget to star this repo if you liked it.
 
