@@ -26,15 +26,7 @@ Enjoy Your Bot!!💝
 
 <details>
 
-  <summary> Credits 🏅 </summary>
-LIGHTYAGAMI
   <summary> Official Supports ✅ </summary>
-
-
-
-
-
-
 
 <a href="https://t.me/illusion_07"><img src="https://img.shields.io/badge/Join-Support%20Channel-red.svg?style=for-the-badge&logo=Telegram"></a>
 
@@ -58,10 +50,6 @@ LIGHTYAGAMI
 </details>
 
 <details>
-
-  <summary> • CREDITS👀 • </summary>
-<h2 align="center"> <a href="https://github.com/HellBoy-OP/HellBot">💥 HELLBOT 💥</a></h2>
-
 </details>
 
 <details>
