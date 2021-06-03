@@ -37,9 +37,9 @@ _set_bot () {
     rm -rf "$zippath"
     sleep 5
     cd $MAFIAPATH
-    echo "    Starting LIGHTYAGAMIBOT    "
+    echo "    Starting NEUCLEAR    "
     echo "
-                          ＬＩＧＨＴＹＡＧＡＭＩＢＯＴ
+                          NEUCLEAR SPAM BOT       "
     "
 
     python3 ./setup/updater.py ./requirements.txt requirements.txt
