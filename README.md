@@ -7,7 +7,7 @@
 
 <h1 align="center">⚡ NEUCLEAR SPAM BOT⚡</h1>
 
-<h4 align="center">Legendary AF lìghtyagamiẞø†</h4>
+<h4 align="center">Legendary AF Nuclearbot</h4>
 
 <h5>This is a userbot made for spam purpose</h5>
 
@@ -57,7 +57,7 @@ Enjoy Your Bot!!💝
 
 Simply clone the repository and run the main file:
 sh
-git clone https://github.com/illusionX07/INFINITYBOT
+git clone https://github.com/SurajOP7/NUCLEARSPAMBPOT
 cd INFINITYBOT
 virtualenv -p /usr/bin/python3 venv
 . ./venv/bin/activate
