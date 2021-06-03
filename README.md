@@ -43,8 +43,8 @@ Enjoy Your Bot!!💝
 * [![Run on Repl.it](https://replit.com/badge/github/illusionX07/INFINITYBOT)](https://replit.com/@illusionX07/StringSessionGenerator)
 
 <h4>⚜️ DEPLOY TO HEROKU ⚜️</h4>
-<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/illusionX07/INFINITYBOT"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-red?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
-<h2 align="center"> <a href="https://github.com/illusionX07/INFINITYBOT">⚡ ʟɪɢʜᴛʏᴀɢᴀᴍɪ 𝚄𝚂𝙴𝚁𝙱𝙾𝚃 ⚡</a></h2>
+<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/SURAJOP7/NUCLEARSPAMBOT"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-red?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+<h2 align="center"> <a href="https://github.com/SURAJOP7/NUCLEARBOT">⚡ NUCLEAR SPAM BOT ⚡</a></h2>
 
 </details>
 
@@ -58,7 +58,7 @@ Enjoy Your Bot!!💝
 Simply clone the repository and run the main file:
 sh
 git clone https://github.com/SurajOP7/NUCLEARSPAMBPOT
-cd INFINITYBOT
+cd NUCLEARSPAMBOT
 virtualenv -p /usr/bin/python3 venv
 . ./venv/bin/activate
 pip install -r requirements.txt
