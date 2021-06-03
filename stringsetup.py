@@ -8,6 +8,8 @@ from telethon.sessions import StringSession
 from telethon.sync import TelegramClient
 
 print(
+Thanks to my respective hell owner and illusion sir
+
     """Please go-to my.telegram.org
 Login using your Telegram account
 Click on API Development Tools
