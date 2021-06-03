@@ -1,23 +1,23 @@
-<h3>☣️ The Most Powerfull Userbot ☣️</h3>
+<h3>☣️ The Most Powerfull Userbot for spam☣️</h3>
 
 [![Python 3.6](https://img.shields.io/badge/Python-3.6%20or%20newer-blue.svg)](https://www.python.org/downloads/release/python-360/)
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/illusionX07/INFINITYBOT)
 [![Contact Me](https://img.shields.io/badge/Telegram-Contact%20Me-informational)](https://t.me/illusion_07)
 
-<h1 align="center">⚡ †hê lìghtyagamiẞø† ⚡</h1>
+<h1 align="center">⚡ NEUCLEAR SPAM BOT⚡</h1>
 
 <h4 align="center">Legendary AF lìghtyagamiẞø†</h4>
 
 <h5>This is a userbot made for spam purpose</h5>
 
-This is the one and only official Lightyagami Userbot made by #Team_lightyagami.
+This is the one and only official NEUCLEAR SPAM Userbot Thanks to my respective hell owners and illusion sir.#TEAM_LIGHTYGAMI #TEAM_NEUCLEAR..
 
 Don't forget to star this repo if you liked it.
 
 Enjoy Your Bot!!💝
 
-[![lìghtyagamiẞø† logo](https://telegra.ph/file/cd3164839ce4f95789aaa.jpg)](https://t.me/hellbot_official)
+[![NEUCLEAR USERBOT ](https://telegra.ph/file/cd3164839ce4f95789aaa.jpg)](https://t.me/hellbot_official)
 
 ### The owner would not be responsible for any kind of bans due to the bot...
 
@@ -27,9 +27,9 @@ Enjoy Your Bot!!💝
 
   <summary> Official Supports ✅ </summary>
 
-<a href="https://t.me/illusion_07"><img src="https://img.shields.io/badge/Join-Support%20Channel-red.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://t.me/suraj_o_p"><img src="https://img.shields.io/badge/Join-Support%20Channel-red.svg?style=for-the-badge&logo=Telegram">https://t.me/NUCLEAR_USERBOT_OFFICIAL</a>
 
-<a href="https://t.me/illusion_07"><img src="https://img.shields.io/badge/Join-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://t.me/suraj_o_p"><img src="https://img.shields.io/badge/Join-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram">https://t.me/NUCLEAR_USERBOT_SUPPORT</a>
 
 </details>
 
