@@ -2,12 +2,12 @@
 
 [![Python 3.6](https://img.shields.io/badge/Python-3.6%20or%20newer-blue.svg)](https://www.python.org/downloads/release/python-360/)
 
-![GitHub repo size](https://img.shields.io/github/repo-size/illusionX07/INFINITYBOT)
-[![Contact Me](https://img.shields.io/badge/Telegram-Contact%20Me-informational)](https://t.me/illusion_07)
+![GitHub repo size](https://img.shields.io/github/repo-size/SurajOP7/NUCLEARSPAMBOT)
+[![Contact Me](https://img.shields.io/badge/Telegram-Contact%20Me-informational)](https://t.me/suraj_o_p)
 
 <h1 align="center">⚡ NEUCLEAR SPAM BOT⚡</h1>
 
-<h4 align="center">Legendary AF Nuclearbot</h4>
+<h4 align="center">Legendary AF NUCLEAR BOT</h4>
 
 <h5>This is a userbot made for spam purpose</h5>
 
@@ -17,7 +17,7 @@ Don't forget to star this repo if you liked it.
 
 Enjoy Your Bot!!💝
 
-[![NEUCLEAR USERBOT ](https://telegra.ph/file/cd3164839ce4f95789aaa.jpg)](https://t.me/hellbot_official)
+[![NEUCLEAR USERBOT ](https://telegra.ph/file/2225f637dd9b2620bfb29.jpg)
 
 ### The owner would not be responsible for any kind of bans due to the bot...
 
