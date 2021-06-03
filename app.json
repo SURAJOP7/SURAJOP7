@@ -10,7 +10,7 @@
     "productivity"
   ],
   "repository": "https://github.com/SurajOP7/NUCLEARBOT",
-  "website": "https://github.com/illusionX07/NUCLEARBOT",
+  "website": "https://github.com/SurajOP7/NUCLEARBOT",
   "success_url": "https://t.me/suraj_o_p",
   "env": {
     "ENV": {
@@ -28,7 +28,7 @@
       "required": false
     },
     "ALIVE_MSG": {
-      "description": "Set Custom Alive Message When entering .lightyagami Command.",
+      "description": "Set Custom Alive Message When entering .nuclearop Command.",
       "value": "NUCLEAR SPAM BOT OP ",
       "required": false
     },
@@ -87,7 +87,7 @@
     },
     "HEROKU_APP_NAME": {
       "description": "The Value of App Name you filled in right on top.Required for updater to work.",
-      "value": "LIGHTYAGAMIOP",
+      "value": "NUCLEARBOTOP",
       "required": true
     },
     "TG_BOT_TOKEN_BF_HER": {
