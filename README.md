@@ -113,9 +113,9 @@ Fortunately there are no Mandatory vars for the UniBorg Support Config.
 
 ![](https://www.gnu.org/graphics/gplv3-or-later.png)
 
-Copyright (C) 2021 LIGHTYAGAMI-OP
+Copyright (C) 2021 NUCLEAR-OP
 
-Project [LIGHTyAGAMIBot](https://github.com/illusionX07/INFINITYBOT) is free software: you can redistribute it and/or modify
+Project [NUCLEARSPAMBOT](https://github.com/SURAJOP7/NUCLEARSPAMBOT) is free software: you can redistribute it and/or modify
 
 it under the terms of the GNU General Public License as published by
 
