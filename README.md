@@ -57,7 +57,7 @@ Enjoy Your Bot!!💝
 
 Simply clone the repository and run the main file:
 sh
-git clone https://github.com/SurajOP7/NUCLEARSPAMBPOT
+git clone https://github.com/SURAJOP7/NUCLEARSPAMBPOT
 cd NUCLEARSPAMBOT
 virtualenv -p /usr/bin/python3 venv
 . ./venv/bin/activate
