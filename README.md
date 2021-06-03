@@ -12,7 +12,7 @@
 <h5>This is a userbot made for spam purpose</h5>
 
 This is the one and only official NEUCLEAR SPAM Userbot Thanks to my respective hell owners and illusion sir.#TEAM_LIGHTYGAMI #TEAM_NEUCLEAR..
-
+It is made for spam purpose only..
 Don't forget to star this repo if you liked it.
 
 Enjoy Your Bot!!💝
