@@ -1,6 +1,6 @@
 {
-  "name": "lìghtyagamiẞø†",
-  "description": "The best userbot made by @Kraken_The_BadASS. And cloned and bypassed things by @illusion_07 Made For Spamming Purpose ....For queries msg- @illusion_07 ",
+  "name": "Nuclear spam bot",
+  "description": "The best userbot made by @Kraken_The_BadASS. And cloned and bypassed things by @suraj_o_p Made For Spamming Purpose ....For queries msg- @suraj_o_p ",
   "logo": "https://telegra.ph/file/cd3164839ce4f95789aaa.jpg ",
     "keywords": [
     "telegram",
@@ -9,9 +9,9 @@
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/illusionX07/INFINITYBOT",
-  "website": "https://github.com/illusionX07/INFINITYBOT",
-  "success_url": "https://t.me/illusion_07",
+  "repository": "https://github.com/SurajOP7/NUCLEARBOT",
+  "website": "https://github.com/illusionX07/NUCLEARBOT",
+  "success_url": "https://t.me/suraj_o_p",
   "env": {
     "ENV": {
       "description": "Setting this to ANYTHING will enable heroku.",
@@ -24,12 +24,12 @@
     },
     "ALIVE_NAME": {
       "description": "Fill your Full name. By default it is Hell User",
-      "value": "REX K PAPA LIGHTYAGAMI ",
+      "value": "NUCLEAR_SPAMBOT",
       "required": false
     },
     "ALIVE_MSG": {
       "description": "Set Custom Alive Message When entering .lightyagami Command.",
-      "value": "REX KI MAA BADI SEXY",
+      "value": "NUCLEAR SPAM BOT OP ",
       "required": false
     },
     "ALIVE_PIC": {
@@ -109,7 +109,7 @@
       "value": "@GHOULSKIMAACHUDGAAEBOT"
     },
     "SUDO_COMMAND_HAND_LER": {
-      "description": "BHAI YAAR TUM GAND MARAO",
+      "description": "ISKE BINA ZINDAGI BEKAR H ",
       "value": "*",
       "required": false
     }
