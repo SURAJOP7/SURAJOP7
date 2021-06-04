@@ -18,7 +18,7 @@ Don't forget to star this repo if you liked it.For any problem contact me in tel
 Enjoy Your Bot!!💝
 THANKS💝
 
-[![NEUCLEAR USERBOT ](https://telegra.ph/file/2225f637dd9b2620bfb29.jpg)
+[![NEUCLEAR USERBOT ](https://telegra.ph/file/b66efad7061ce26b1216f.jpg)
 
 ### The owner would not be responsible for any kind of bans due to the bot...
 
