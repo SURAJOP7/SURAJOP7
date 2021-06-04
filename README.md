@@ -16,12 +16,14 @@ It is made for spam purpose only..😈
 Don't forget to star this repo if you liked it.For any problem contact me in telegram @suraj_o_p.
 
 Enjoy Your Bot!!💝
+THANKS💝
 
 [![NEUCLEAR USERBOT ](https://telegra.ph/file/2225f637dd9b2620bfb29.jpg)
 
 ### The owner would not be responsible for any kind of bans due to the bot...
 
-# FORK AT YOUR OWN RISK
+# FORK AT YOUR OWN RISK.
+ 
 
 <details>
 
@@ -129,7 +131,7 @@ but WITHOUT ANY WARRANTY; without even the implied warranty of
 
 MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
 
-GNU General Public License for more details.
+GNU General Public License for more details. DON'T KANG THE BOT WITHOUT OWNER PERMISSION.
 
 You should have received a copy of the GNU General Public License
 
